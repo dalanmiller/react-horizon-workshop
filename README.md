@@ -33,7 +33,6 @@ Compile the project with `reactpack`:
 ```
 Start the Horizon server:
 ```
-cd dist
 hz serve --dev
 ```
 
